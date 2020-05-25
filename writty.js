@@ -1,7 +1,7 @@
 window.onload = function () {
     trigger();
-    popupInit();
     setupEventListenerForThemeSwitch();
+    popupInit();
 }
 // Styling: Headings, Bold, Italic, Underline, Quotes, Lists //
 
